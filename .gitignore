@@ -6,3 +6,4 @@ YfApi
 docs
 .vscode/*
 .txt
+/config/config.yaml
